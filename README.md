@@ -38,4 +38,4 @@ This app uses the OpenWeather API. Get your free API key at [OpenWeatherMap](htt
 
 **Salah Alian** - Full Stack Developer
 - Portfolio: [salah-portfolio-7t6b.onrender.com](https://salah-portfolio-7t6b.onrender.com)
-- GitHub: [@Salahianoo](https://github.com/Salahianoo)
+- GitHub: [@Salahianoo](https://github.com/Salahianoo)# Weather-Dashboard
